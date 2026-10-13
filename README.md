@@ -20,4 +20,4 @@ Frontend: HTML5, Tailwind CSS
 
 Charts & Visuals: Chart.js
 
-Engine & Logic: Native JavaScript (no backend server or external database required)
+Engine & Logic: Native JavaScript 
